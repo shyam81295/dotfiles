@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/shyasin2/.vim-tmp'
+let g:netrw_dirhist_5='/Users/shyasin2/.dotfiles/config/nvim/plugged/coc.nvim'
+let g:netrw_dirhist_4='/Users/shyasin2/.dotfiles/config/nvim/plugged'
+let g:netrw_dirhist_3='/Users/shyasin2/.dotfiles/config/nvim/plugged/vim-fugitive/syntax'
+let g:netrw_dirhist_2='/Users/shyasin2/.dotfiles/config/nvim/plugged/vim-fugitive'
+let g:netrw_dirhist_1='/Users/shyasin2/.dotfiles/config/nvim/plugged'
+let g:netrw_dirhist_0='/Users/shyasin2/code/dotfiles/dotfiles'
+let g:netrw_dirhist_9='/usr/share'
+let g:netrw_dirhist_8='/Users/shyasin2/.dotfiles'
+let g:netrw_dirhist_7='/Users/shyasin2/.vim-tmp'
